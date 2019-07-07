@@ -1,0 +1,23 @@
+#usercheck{
+	margin-left: 10px;
+	height: 30px;
+}
+
+.mem-table tbody tr{
+	cursor: pointer;
+}
+
+.s-table tbody tr{
+	cursor: pointer;
+}
+
+
+.table tbody tr:hover{
+	background-color: rgb(243, 243, 243);
+}
+
+.table-link{
+	text-decoration: none;
+	color: black;
+	font-weight: 700;
+}
