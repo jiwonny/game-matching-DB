@@ -39,7 +39,7 @@
     );
 ```
 
-
+<br>
 <b>Games</b>
 
 ```sql
@@ -55,7 +55,7 @@
     );
 ```
 
-
+<br>
 <b>Companies</b>
 
 ```sql
@@ -67,7 +67,7 @@
     );
 ```
 
-
+<br>
 <b>Groups</b>
 
 ```sql
@@ -82,7 +82,7 @@
     );
 ```
 
-
+<br>
 <b>Applications</b>
 
 ```sql
@@ -99,7 +99,7 @@
     );
 ```
 
-
+<br>
 <b>Belongs</b>
 
 ```sql
