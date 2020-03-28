@@ -18,4 +18,4 @@
 
 
 ### ERD
-![ERD](erd.JPEG)
+![ERD](erd.JPG)
